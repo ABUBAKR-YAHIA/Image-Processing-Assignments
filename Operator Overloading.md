@@ -1,38 +1,6 @@
-Skip to content
-Search or jump to…
 
-Pull requests
-Issues
-Marketplace
-Explore
- 
 @ABUBAKR-YAHIA 
-Learn Git and GitHub without any code!
-Using the Hello World guide, you’ll start a branch, write comments, and open a pull request.
 
-
-ABUBAKR-YAHIA
-/
-Image-Processing-Assignments
-1
-00
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-Settings
-Image-Processing-Assignments/Operator_Overoading.cpp
-@ABUBAKR-YAHIA
-ABUBAKR-YAHIA Update Operator_Overoading.cpp
-Latest commit 4868579 20 minutes ago
- History
- 1 contributor
-167 lines (122 sloc)  2.89 KB
-  
 #include "bits/stdc++.h" 
 #include <vector>
 #define rows 5
@@ -200,17 +168,5 @@ OUTPUT
 
 ![image](https://user-images.githubusercontent.com/72355871/104428845-f3eb0880-55aa-11eb-9d4d-7bf9b662c3cb.png)
 
-© 2021 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
 
 ![image](https://user-images.githubusercontent.com/72355871/104429514-b33fbf00-55ab-11eb-8719-633b4539dc66.png)
