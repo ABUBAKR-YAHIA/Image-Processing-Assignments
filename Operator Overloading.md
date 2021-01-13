@@ -1,6 +1,3 @@
-
-@ABUBAKR-YAHIA 
-
 #include "bits/stdc++.h" 
 #include <vector>
 #define rows 5
@@ -163,10 +160,6 @@ vector<vector<int> > v2(rows, vector<int> (cols, 0)) ;
 	return 0; 
 } 
 
-
-OUTPUT 
+Output:
 
 ![image](https://user-images.githubusercontent.com/72355871/104428845-f3eb0880-55aa-11eb-9d4d-7bf9b662c3cb.png)
-
-
-![image](https://user-images.githubusercontent.com/72355871/104429514-b33fbf00-55ab-11eb-8719-633b4539dc66.png)
